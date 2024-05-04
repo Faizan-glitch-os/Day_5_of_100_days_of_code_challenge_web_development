@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: teal;
+  margin: 50px;
+}
+
+h1 {
+  color: teal;
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+}
+
+p {
+  color: #787e87;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: teal;
+}
+
+a:hover {
+  color: aqua;
+}
