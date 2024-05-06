@@ -1,0 +1,21 @@
+h1 {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+}
+
+ul {
+  list-style-type: none;
+  background-color: wheat;
+  margin: 50px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+li {
+  padding: 30px;
+  margin: 20px;
+  background-color: teal;
+  border-radius: 10px;
+  color: black;
+}

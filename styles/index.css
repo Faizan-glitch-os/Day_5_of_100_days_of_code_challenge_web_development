@@ -15,3 +15,20 @@ p {
 a {
   color: greenyellow;
 }
+
+main p {
+  background-color: wheat;
+  color: teal;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 50px 100px 50px 100px;
+}
+
+header p {
+  background-color: wheat;
+  color: teal;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+  margin: 10px auto 10px auto;
+}

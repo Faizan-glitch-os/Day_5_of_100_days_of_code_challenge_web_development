@@ -24,3 +24,17 @@ a {
 a:hover {
   color: aqua;
 }
+
+footer a {
+  color: black;
+  padding: 20px;
+  background-color: wheat;
+  border-radius: 10px;
+}
+
+footer a:hover {
+  color: teal;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
