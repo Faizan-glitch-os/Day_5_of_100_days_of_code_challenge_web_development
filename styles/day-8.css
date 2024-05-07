@@ -1,0 +1,35 @@
+h1 {
+  display: inline-block;
+  margin-bottom: 40px;
+}
+
+main {
+  width: 800px;
+  height: 600px;
+  background-color: wheat;
+  color: teal;
+  padding: 10px;
+  margin: 50px auto 50px auto;
+  border: 3px solid black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 6px rgb(44, 44, 44);
+}
+
+.negative-margin {
+  background-color: white;
+  padding: 10px;
+  border: 2px dashed black;
+  border-radius: 10px;
+  box-shadow: 1px 1px 6px rgb(44, 44, 44);
+  margin-top: -60px;
+}
+
+li {
+  list-style: none;
+}
+
+.style-different {
+  color: green;
+  font-size: 40px;
+  text-shadow: 1px 1px 4px;
+}
