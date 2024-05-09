@@ -1,0 +1,39 @@
+header h2 {
+  color: white;
+}
+
+main {
+  text-align: left;
+  width: 900px;
+  background-color: wheat;
+  padding: 10px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 2px 2px 6px white;
+}
+
+main p {
+  font-size: 20px;
+  margin-left: 20px;
+}
+main h2 {
+  margin-left: 20px;
+  color: teal;
+}
+
+ul {
+  list-style: none;
+  color: #787e87;
+}
+
+li {
+  margin: 10px;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+footer a {
+  color: whitesmoke;
+}
